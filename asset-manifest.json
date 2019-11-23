@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/propertymanagecr/static/css/main.04455136.chunk.css",
-    "main.js": "/propertymanagecr/static/js/main.040da442.chunk.js",
-    "main.js.map": "/propertymanagecr/static/js/main.040da442.chunk.js.map",
-    "runtime~main.js": "/propertymanagecr/static/js/runtime~main.737d5533.js",
-    "runtime~main.js.map": "/propertymanagecr/static/js/runtime~main.737d5533.js.map",
-    "static/css/2.266e55a5.chunk.css": "/propertymanagecr/static/css/2.266e55a5.chunk.css",
-    "static/js/2.a768ef90.chunk.js": "/propertymanagecr/static/js/2.a768ef90.chunk.js",
-    "static/js/2.a768ef90.chunk.js.map": "/propertymanagecr/static/js/2.a768ef90.chunk.js.map",
-    "index.html": "/propertymanagecr/index.html",
-    "precache-manifest.1695ea27d559ee6377949ae4c631f82d.js": "/propertymanagecr/precache-manifest.1695ea27d559ee6377949ae4c631f82d.js",
-    "service-worker.js": "/propertymanagecr/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/propertymanagecr/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.04455136.chunk.css.map": "/propertymanagecr/static/css/main.04455136.chunk.css.map"
+    "main.css": "/static/css/main.04455136.chunk.css",
+    "main.js": "/static/js/main.2cbe24f1.chunk.js",
+    "main.js.map": "/static/js/main.2cbe24f1.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.e38743dc.js",
+    "runtime~main.js.map": "/static/js/runtime~main.e38743dc.js.map",
+    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
+    "static/js/2.a768ef90.chunk.js": "/static/js/2.a768ef90.chunk.js",
+    "static/js/2.a768ef90.chunk.js.map": "/static/js/2.a768ef90.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d145bc68e95af15ffd7442332b24779c.js": "/precache-manifest.d145bc68e95af15ffd7442332b24779c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.04455136.chunk.css.map": "/static/css/main.04455136.chunk.css.map"
   }
 }
